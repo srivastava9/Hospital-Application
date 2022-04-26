@@ -1,5 +1,4 @@
 from django.shortcuts import render
-from html5lib import serialize
 from rest_framework import generics
 from constants import ERR_MSG_ID_INVALID
 
