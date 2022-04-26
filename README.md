@@ -20,6 +20,5 @@ EOF
 ```sh
 ENVIRONMENT=LOCAL
 DJANGO_SECRET_KEY='django-insecure-f8nn5m3kfs!swtsrvhn3tsati4_5p!!u8uu_muql0mju7&(m-@'
-EOF
 ```
 
