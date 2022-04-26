@@ -5,3 +5,4 @@ ERR_MSG_APPOINTMENT_DATE = _("Appointment Date should be of after today's date")
 ERR_MSG_DOCTOR_APPOINTMENT_ALREADY_SET = (
     "Doctor Appointment is already present in set datetime"
 )
+ERR_MSG_ID_INVALID = "{field} Id is Invalid, No such {field} found!"
